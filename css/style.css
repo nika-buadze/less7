@@ -1,0 +1,162 @@
+.cont1 {
+    width: 1250px;
+    height: 1187px;
+}
+.nav {
+    display: inline-block;
+
+}
+.blue {
+    color: #3D37F1;
+}
+.nav {  
+    margin-left: 120px;
+    vertical-align: top;
+}
+.cont1-up {
+    margin: 132px 64px 65px 0px;
+    margin-left: 132px;
+}
+.mid-text {
+    font-size: 78px;
+}
+.mid-text-div {
+    width: 536px;
+    height: 304px;
+    margin-left: 132px;
+    margin-top: 227px;
+    display: inline-block;
+}
+.img {
+    width: 580px;
+    height: 427px;
+    margin-top: 200px;
+}
+.mid-img-div {
+    width: 536px;
+    height: 304px;
+    display: inline-block;
+}
+.wb-col {
+    font-style: bold;
+    color: #3D37F1;
+}
+.butt-div {
+    width: 260px;
+    height: 70px;
+    background-color: #3D37F1;
+    margin-left: 130px;
+    border-radius: 38px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.wm {
+    color: #FFFFFF;
+}
+.butt-div-img {
+    margin-right: 15px;
+}
+.mid-pt {
+    margin-top: 39px;
+}
+
+
+.cont2 {
+    width: 1250px;
+    height: 1187px;
+}
+
+
+.our-ser {
+    color: #3D37F1;
+    font-size: 20px;
+    text-align: center;
+}
+.wpb {
+    color: #5A5454;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 12px;
+}
+.ouct {
+    color: #747474;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.div-ouct {
+    display: flex;
+    width: 900px;
+    height: 85px;
+}
+.cont2-divs {
+    width: 1169px;
+    height: 455px;
+
+    margin: 0 auto;
+}
+.cont2-divs {
+    margin-top: 67px;
+}
+.block  {
+    width: 370px;
+    height: 450px;
+    background-color: #FBBA77;
+}
+.bl-img {
+    width: 100px;
+    height: 99px;
+}
+.blue-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.wu {
+    margin-top: 55px;
+    text-align: center;
+}
+.dl {
+    margin-top: 12.1px;
+}
+.bl-box-img {
+    margin-top: 92px;
+}
+.wuw {
+    margin-top: 11px;
+    width: 130px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    margin-left: 119px;
+    border-radius: 23px;
+}
+.g {
+    background-color: #41EAE3;
+    margin: 0 30px;
+}
+.gg {
+    background-color: #69529F;
+}
+.ggg {
+    background-color: #4386D2;
+}
+.gggg {
+    background-color: #A5A2F6;
+}
+.ggggg {
+    background-color: #FF8088;
+}
+.cont2-divs {
+    display: flex;
+}
+
+.all {
+    margin-bottom: 128px;
+}
